@@ -44,7 +44,6 @@ Además, la aplicación permite configurar los nombres de los archivos utilizado
 User-Management-System-C/
 │
 ├── README.md
-├── Makefile
 ├── .gitignore
 │
 └── src/
@@ -52,7 +51,8 @@ User-Management-System-C/
     ├── usuario.c
     ├── usuario.h
     ├── log.c
-    └── log.h
+    ├── log.h
+    └── Makefile
 ```
 
 ## Compilación
